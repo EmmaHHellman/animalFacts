@@ -1,0 +1,8 @@
+.birdContainer, .catContainer, .dogContainer {
+  display: none;
+}
+
+img {
+  max-width: 300px;
+  max-height: 400px;
+}
